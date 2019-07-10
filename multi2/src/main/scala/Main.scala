@@ -4,6 +4,7 @@ object Main extends App {
   val entity = Entity("id", NestedEntity("value"))
 
   println("multi2 can use pureconfig dependency")
+  val boo = 123
 
   import pureconfig._
 

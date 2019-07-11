@@ -13,6 +13,6 @@ addSbtPlugin("com.lucidchart" % "sbt-scalafmt-coursier" % "1.12")
 
 addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.5")
 
-addSbtPlugin("com.ltrojanowski" % "testaffected" % "0.1")
+addSbtPlugin("com.ltrojanowski" % "testaffected" % "0.1.1")
 
 addSbtPlugin("jp.ne.opt" % "sbt-diff-project" % "0.2.1")
